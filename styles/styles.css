@@ -60,7 +60,7 @@ main {
 }
 
 .about-me h2 {
-    color: #ecf0f1;
+    color: white;
     margin-bottom: 1rem;
 }
 
@@ -72,6 +72,7 @@ main {
 }
 
 .about-me p {
+    color:white;
     margin-bottom: 1rem;
 }
 
@@ -84,7 +85,7 @@ main {
 }
 
 .resume h2 {
-    color: #3498db;
+    color: #fff;
     margin-bottom: 1rem;
     text-align: center;
 }
@@ -100,6 +101,7 @@ main {
 }
 
 .resume p {
+    color: white;
     margin-bottom: 1rem;
     text-align: justify;
 }
@@ -114,7 +116,7 @@ main {
 }
 
 .internships h2 {
-    color: #3498db;
+    color: white;
     margin-bottom: 1rem;
     text-align: center;
 }
@@ -145,7 +147,7 @@ footer {
 }
 
 footer a {
-    color: #3498db;
+    color: white;
     text-decoration: none;
 }
 
